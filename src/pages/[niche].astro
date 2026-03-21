@@ -1,0 +1,156 @@
+---
+import Layout from '../layouts/Layout.astro';
+import ProductGrid from '../components/ProductGrid.astro';
+import FAQ from '../components/FAQ.astro';
+import Breadcrumb from '../components/Breadcrumb.astro';
+import blogData from '../data/blog_data.json';
+
+export function getStaticPaths() {
+  return blogData.niches.map(niche => ({
+    params: { niche: niche.slug },
+    props: { niche },
+  }));
+}
+
+const { niche } = Astro.props;
+
+// Product schema for the grid
+const productListSchema = {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": niche.title,
+  "numberOfItems": niche.products.length,
+  "itemListElement": niche.products.map((p, i) => ({
+    "@type": "ListItem",
+    "position": i + 1,
+    "item": {
+      "@type": "Product",
+      "name": p.title,
+      "description": p.intro,
+      "image": p.image,
+      "url": p.url,
+      "offers": {
+        "@type": "Offer",
+        "price": "78.80",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+      },
+    },
+  })),
+};
+---
+
+<Layout title={niche.title} description={niche.meta_description} image={niche.products[0]?.image}>
+  <Breadcrumb items={[
+    { label: 'Home', href: '/' },
+    { label: niche.display_name, href: `/${niche.slug}` },
+  ]} />
+
+  <article class="niche-page">
+    <header class="niche-hero">
+      <h1>{niche.title}</h1>
+      <p class="hero-intro">{niche.content?.hero_intro || niche.meta_description}</p>
+    </header>
+
+    {niche.content?.why_section && (
+      <section class="content-section">
+        <h2>Why {niche.display_name} Woven Blankets?</h2>
+        <p>{niche.content.why_section}</p>
+      </section>
+    )}
+
+    <section class="products-section">
+      <h2>Our {niche.display_name} Collection</h2>
+      <ProductGrid products={niche.products} />
+    </section>
+
+    {niche.content?.style_tips && (
+      <section class="content-section">
+        <h2>How to Style {niche.display_name} Woven Blankets</h2>
+        <p>{niche.content.style_tips}</p>
+      </section>
+    )}
+
+    <section class="content-section care-section">
+      <h2>Care Instructions</h2>
+      <p>All our woven blankets are made from 100% cotton using jacquard weaving, a technique that produces intricate patterns woven directly into the fabric rather than printed on top. Machine wash cold on a gentle cycle with mild detergent. Tumble dry low or lay flat to dry. The cotton becomes softer with each wash while the woven pattern stays crisp and vibrant. Avoid bleach and fabric softener to preserve the fibers.</p>
+    </section>
+
+    {niche.content?.faq && niche.content.faq.length > 0 && (
+      <FAQ items={niche.content.faq} />
+    )}
+
+    {niche.related_niches && niche.related_niches.length > 0 && (
+      <section class="related-section">
+        <h2>Explore Related Styles</h2>
+        <div class="related-links">
+          {niche.related_niches.map(rel => (
+            <a href={`/${rel.slug}`} class="related-link">{rel.name}</a>
+          ))}
+        </div>
+      </section>
+    )}
+  </article>
+
+  <script type="application/ld+json" set:html={JSON.stringify(productListSchema)} />
+</Layout>
+
+<style>
+  .niche-page { max-width: 900px; }
+  .niche-hero { margin-bottom: 40px; }
+  .niche-hero h1 {
+    font-family: var(--font-serif);
+    font-size: 2.2rem;
+    line-height: 1.3;
+    margin-bottom: 16px;
+  }
+  .hero-intro {
+    font-size: 1.1rem;
+    color: var(--color-text-muted);
+    line-height: 1.7;
+    max-width: 700px;
+  }
+  .content-section {
+    margin: 40px 0;
+  }
+  .content-section h2 {
+    font-size: 1.4rem;
+    margin-bottom: 16px;
+    color: var(--color-accent);
+  }
+  .content-section p {
+    color: var(--color-text-muted);
+    line-height: 1.8;
+    font-size: 0.95rem;
+  }
+  .products-section h2 {
+    font-size: 1.4rem;
+    margin-bottom: 8px;
+    color: var(--color-accent);
+  }
+  .care-section {
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+    padding: 24px;
+  }
+  .related-section { margin: 48px 0; }
+  .related-section h2 {
+    font-size: 1.2rem;
+    margin-bottom: 16px;
+  }
+  .related-links { display: flex; flex-wrap: wrap; gap: 10px; }
+  .related-link {
+    padding: 8px 16px;
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: 6px;
+    font-size: 0.85rem;
+    transition: border-color 0.2s;
+  }
+  .related-link:hover { border-color: var(--color-accent); }
+
+  @media (max-width: 640px) {
+    .niche-hero h1 { font-size: 1.6rem; }
+  }
+</style>

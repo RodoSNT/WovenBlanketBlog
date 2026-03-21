@@ -1,0 +1,21 @@
+{
+  "name": "woven-blanket-blog",
+  "version": "1.0.0",
+  "description": "Programmatic SEO niche blog for WBL Etsy store",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodoSNT/WovenBlanketBlog.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@astrojs/sitemap": "^3.7.1",
+    "astro": "^6.0.8",
+    "astro-seo": "^1.1.0"
+  }
+}

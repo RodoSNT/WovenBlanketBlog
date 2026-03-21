@@ -1,0 +1,174 @@
+---
+import Layout from '../layouts/Layout.astro';
+import blogData from '../data/blog_data.json';
+
+const niches = blogData.niches;
+---
+
+<Layout
+  title="Curated Woven Art for Your Home"
+  description="Discover handwoven cotton blankets across 15 unique aesthetics — from gothic and dark academia to cottagecore and celestial. Jacquard-woven, 100% cotton, made to last."
+>
+  <section class="hero">
+    <h1>Curated Woven Art<br/>for Your Home</h1>
+    <p>Handwoven cotton blankets across 15 unique aesthetics. Jacquard-woven patterns that become softer with every wash.</p>
+  </section>
+
+  <section class="niche-grid-section">
+    <h2>Browse by Style</h2>
+    <div class="niche-grid">
+      {niches.map(niche => (
+        <a href={`/${niche.slug}`} class="niche-card">
+          {niche.products[0]?.image && (
+            <img src={niche.products[0].image} alt={niche.display_name} loading="lazy" width="400" height="533" />
+          )}
+          <div class="niche-card-info">
+            <h3>{niche.display_name}</h3>
+            <span class="niche-count">{niche.products.length} designs</span>
+          </div>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <section class="about-section">
+    <h2>Why Woven Blankets?</h2>
+    <div class="about-grid">
+      <div class="about-card">
+        <h3>Jacquard Woven</h3>
+        <p>Patterns are woven into the fabric, not printed. They never fade, crack, or peel — even after years of use.</p>
+      </div>
+      <div class="about-card">
+        <h3>100% Cotton</h3>
+        <p>Breathable, hypoallergenic, and machine washable. Gets softer with every wash while keeping its structure.</p>
+      </div>
+      <div class="about-card">
+        <h3>Three Sizes</h3>
+        <p>Available in 52"x37" (throw), 60"x50" (standard), and 80"x60" (large). Perfect for couches, beds, or wall display.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="guides-section">
+    <h2>Helpful Guides</h2>
+    <div class="guide-links">
+      <a href="/guides/woven-blanket-buying-guide" class="guide-link">
+        <span class="guide-title">Buying Guide</span>
+        <span class="guide-desc">Everything you need to know before choosing a woven blanket</span>
+      </a>
+      <a href="/gift-guides/gifts-for-her" class="guide-link">
+        <span class="guide-title">Gifts for Her</span>
+        <span class="guide-desc">Thoughtful, cozy home decor gifts she will actually love</span>
+      </a>
+      <a href="/guides/cotton-blanket-care" class="guide-link">
+        <span class="guide-title">Care Instructions</span>
+        <span class="guide-desc">How to wash and care for cotton woven blankets</span>
+      </a>
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .hero {
+    text-align: center;
+    padding: 64px 0 48px;
+  }
+  .hero h1 {
+    font-family: var(--font-serif);
+    font-size: 2.8rem;
+    line-height: 1.2;
+    margin-bottom: 16px;
+  }
+  .hero p {
+    font-size: 1.1rem;
+    color: var(--color-text-muted);
+    max-width: 600px;
+    margin: 0 auto;
+  }
+
+  .niche-grid-section h2,
+  .about-section h2,
+  .guides-section h2 {
+    font-size: 1.5rem;
+    margin-bottom: 24px;
+    color: var(--color-accent);
+  }
+
+  .niche-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 16px;
+    margin-bottom: 64px;
+  }
+  .niche-card {
+    position: relative;
+    border-radius: 8px;
+    overflow: hidden;
+    aspect-ratio: 3/4;
+    border: 1px solid var(--color-border);
+    transition: border-color 0.2s;
+  }
+  .niche-card:hover { border-color: var(--color-accent); }
+  .niche-card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s;
+  }
+  .niche-card:hover img { transform: scale(1.05); }
+  .niche-card-info {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 16px;
+    background: linear-gradient(transparent, rgba(0,0,0,0.85));
+  }
+  .niche-card-info h3 {
+    font-size: 1rem;
+    margin-bottom: 4px;
+    color: #fff;
+  }
+  .niche-count {
+    font-size: 0.8rem;
+    color: var(--color-accent);
+  }
+
+  .about-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    margin-bottom: 64px;
+  }
+  .about-card {
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+    padding: 24px;
+  }
+  .about-card h3 { font-size: 1rem; margin-bottom: 8px; }
+  .about-card p { font-size: 0.9rem; color: var(--color-text-muted); line-height: 1.6; }
+
+  .guide-links {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-bottom: 48px;
+  }
+  .guide-link {
+    display: block;
+    padding: 20px;
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+    transition: border-color 0.2s;
+  }
+  .guide-link:hover { border-color: var(--color-accent); }
+  .guide-title { display: block; font-weight: 600; margin-bottom: 4px; }
+  .guide-desc { font-size: 0.85rem; color: var(--color-text-muted); }
+
+  @media (max-width: 640px) {
+    .hero h1 { font-size: 2rem; }
+    .niche-grid { grid-template-columns: repeat(2, 1fr); }
+  }
+</style>

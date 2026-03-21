@@ -1,0 +1,1944 @@
+{
+  "_meta": {
+    "generated_at": "2026-03-21T12:39:53.697314",
+    "total_niches": 15,
+    "total_products": 79,
+    "source_listings": 508,
+    "note": "Content fields are null \u2014 run wbl_blog_content_gen.py to fill them"
+  },
+  "niches": [
+    {
+      "code": "GTH",
+      "display_name": "Gothic Home Decor",
+      "slug": "gothic-home-decor",
+      "title": "Gothic Home Decor: Woven Blankets & Dark Aesthetic Throws",
+      "meta_description": "Discover gothic woven blankets featuring dark florals, cathedral motifs, and Victorian-inspired designs. Handwoven 100% cotton jacquard throws for your dark aesthetic home.",
+      "products": [
+        {
+          "title": "Gothic Candelabra Roses Moths Woven Throw Blanket, Dark Floral Decor, Gothic Gift",
+          "intro": "A gothic candelabra holds five dripping candles at the center of this design. Deep red roses and pale moths surround the scene against a rich black background. Dried citrus slices add a subtle detail to this dark and dramatic composition.",
+          "image": "/images/GTH26074065F_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4474235022?utm_source=blog&utm_medium=niche_page&utm_campaign=gth",
+          "price": "$78.80",
+          "tags": [
+            "gothic candelabra",
+            "dark crimson roses",
+            "moths and candles"
+          ],
+          "design_id": "GTH26074065F_raw",
+          "etsy_listing_id": "4474235022"
+        },
+        {
+          "title": "Ravens and Skulls with Roses Woven Throw Blanket, Gothic Home Decor, Halloween Gift",
+          "intro": "Two dark ravens perch on a trio of skulls, surrounded by a ring of red roses and green leaves on a deep black background. The design blends dark and natural elements with bold contrast and rich color. A striking piece for gothic and dark nature lovers.",
+          "image": "/images/GTH26074065G_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4474668201?utm_source=blog&utm_medium=niche_page&utm_campaign=gth",
+          "price": "$78.80",
+          "tags": [
+            "black ravens",
+            "white skulls",
+            "red roses"
+          ],
+          "design_id": "GTH26074065G_raw",
+          "etsy_listing_id": "4474668201"
+        },
+        {
+          "title": "Sun and Moon Tarot Woven Throw Blanket, Gothic Celestial Decor, Astrology Gift",
+          "intro": "A golden sun with a face and a crescent moon with a face are stacked at the center of a deep black background. Pink roses frame the corners alongside stars and swirling dark clouds. The tarot card border and rich gold and blue tones create a bold, celestial gothic look.",
+          "image": "/images/GTH26074066A_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4474725251?utm_source=blog&utm_medium=niche_page&utm_campaign=gth",
+          "price": "$78.80",
+          "tags": [
+            "sun and moon faces",
+            "tarot card style",
+            "celestial flowers"
+          ],
+          "design_id": "GTH26074066A_raw",
+          "etsy_listing_id": "4474725251"
+        },
+        {
+          "title": "Sun and Moon Tarot Woven Throw Blanket, Gothic Celestial Decor, Astrology Gift",
+          "intro": "A tarot-inspired design featuring a radiant sun with a human face and a crescent moon with a profile portrait, set against a deep navy starry sky. Purple and pink wildflowers bloom along the bottom, framed by ornate corner details. The color palette blends gold, navy, and soft lavender for a moody celestial feel.",
+          "image": "/images/GTH26074066B_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4475111479?utm_source=blog&utm_medium=niche_page&utm_campaign=gth",
+          "price": "$78.80",
+          "tags": [
+            "sun moon blanket",
+            "celestial tarot",
+            "gothic moon decor",
+            "dark celestial",
+            "tarot card decor",
+            "cosmic gothic"
+          ],
+          "design_id": "GTH26074066B_raw",
+          "etsy_listing_id": "4475111479"
+        },
+        {
+          "title": "Sun Moon Wings Woven Throw Blanket, Gothic Celestial Decor, Astrology Gift",
+          "intro": "A radiant sun and crescent moon face each other across a pair of white wings on a deep black background. Red flowers and dark leafy vines frame the design in a tarot-card style border. The rich jewel tones and celestial faces give it a bold gothic look.",
+          "image": "/images/GTH26074066C_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4475171493?utm_source=blog&utm_medium=niche_page&utm_campaign=gth",
+          "price": "$78.80",
+          "tags": [
+            "sun moon blanket",
+            "celestial wings deco",
+            "gothic celestial",
+            "tarot card art",
+            "dark floral throw",
+            "astrology gift"
+          ],
+          "design_id": "GTH26074066C_raw",
+          "etsy_listing_id": "4475171493"
+        },
+        {
+          "title": "Gothic Stag National Parks Woven Throw Blanket, Wilderness Decor, Nature Lover Gift",
+          "intro": "A bold stag silhouette stands in a dramatic canyon valley, framed by towering red rock formations and dark pine trees. A large full moon glows overhead in deep teal and coral tones. Small floral accents and warm lantern lights add a moody, adventurous feel.",
+          "image": "/images/GTH26074068A_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4475285144?utm_source=blog&utm_medium=niche_page&utm_campaign=gth",
+          "price": "$78.80",
+          "tags": [
+            "stag canyon blanket",
+            "national parks throw",
+            "deer forest blanket",
+            "dark nature decor",
+            "gothic wilderness",
+            "nature lover gift"
+          ],
+          "design_id": "GTH26074068A_raw",
+          "etsy_listing_id": "4475285144"
+        },
+        {
+          "title": "Gothic Cemetery Ravens Full Moon Woven Throw Blanket, Halloween Decor, Spooky Season",
+          "intro": "A moonlit graveyard scene with an iron gate, weathered tombstones, and pink flowers lining a stone path. Three ravens cut across a glowing full moon framed by bare twisted trees. Deep navy and teal tones give this piece a dark, dramatic mood.",
+          "image": "/images/GTH26074069E_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4475282129?utm_source=blog&utm_medium=niche_page&utm_campaign=gth",
+          "price": "$78.80",
+          "tags": [
+            "gothic cemetery",
+            "raven moon blanket",
+            "graveyard throw",
+            "halloween decor",
+            "dark gothic decor",
+            "spooky home decor"
+          ],
+          "design_id": "GTH26074069E_raw",
+          "etsy_listing_id": "4475282129"
+        },
+        {
+          "title": "Gothic Castle Forest Woven Throw Blanket, Dark Fantasy Decor, Halloween Gift",
+          "intro": "A gothic castle with tall dark spires sits deep in a moonlit forest, framed by twisted gnarled trees on both sides. A winding stream and path lead toward the castle entrance, with white wildflowers blooming in the foreground. The cool blue-green night palette gives the whole scene a moody, atmospheric feel.",
+          "image": "/images/GTH26074072B_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4475287853?utm_source=blog&utm_medium=niche_page&utm_campaign=gth",
+          "price": "$78.80",
+          "tags": [
+            "gothic castle throw",
+            "dark mansion blanket",
+            "dark forest blanket",
+            "gothic home decor",
+            "dark academia decor",
+            "spooky nature throw"
+          ],
+          "design_id": "GTH26074072B_raw",
+          "etsy_listing_id": "4475287853"
+        }
+      ],
+      "related_niches": [
+        {
+          "name": "Skeleton & Gothic Art",
+          "slug": "skeleton-gothic-art"
+        },
+        {
+          "name": "Halloween Decor",
+          "slug": "halloween-decor"
+        },
+        {
+          "name": "Bookish Home Decor",
+          "slug": "bookish-decor"
+        },
+        {
+          "name": "Victorian & Verdure",
+          "slug": "victorian-verdure"
+        }
+      ],
+      "top_keywords": [
+        "personalized gift",
+        "spooky woven blanket",
+        "dark gothic blanket",
+        "gift for him",
+        "whimsigoth",
+        "bouquet blanket",
+        "gift for her",
+        "gifts for him",
+        "woven blanket"
+      ],
+      "total_listings": 74,
+      "content": {
+        "hero_intro": null,
+        "why_section": null,
+        "style_tips": null,
+        "faq": []
+      }
+    },
+    {
+      "code": "CTG",
+      "display_name": "Cottagecore Bedroom",
+      "slug": "cottagecore-bedroom",
+      "title": "Cottagecore Bedroom: Cozy Woven Throws & Mushroom Art Blankets",
+      "meta_description": "Create the perfect cottagecore bedroom with handwoven cotton blankets featuring mushrooms, wildflowers, and forest scenes. Jacquard-woven, cozy, and timeless.",
+      "products": [
+        {
+          "title": "Frog Floral Woven Throw Blanket, Cottagecore Nature Decor, Gift for Frog Lovers",
+          "intro": "A sweet green frog sits front and center surrounded by pink blooms and leafy vines on a deep black background. The soft pastel tones and bold flat illustration style give it a charming, nature-inspired feel. Perfect for anyone who loves frogs, florals, and cozy cottagecore style.",
+          "image": "/images/CTG26074044A_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4474225399?utm_source=blog&utm_medium=niche_page&utm_campaign=ctg",
+          "price": "$78.80",
+          "tags": [
+            "frog blanket",
+            "frog floral decor",
+            "cottagecore frog",
+            "floral nature decor",
+            "dark floral throw",
+            "nature lover gift"
+          ],
+          "design_id": "CTG26074044A_raw",
+          "etsy_listing_id": "4474225399"
+        },
+        {
+          "title": "Frog Floral Woven Throw Blanket, Cottagecore Home Decor, Nature Lover Gift",
+          "intro": "A plump green frog sits center stage, ringed by pink blooms and golden amber leaves against a deep chocolate brown background. The flat folk art style gives it a warm, handcrafted feel with rich earthy tones. A cozy pick for nature lovers who want a storybook feel at home.",
+          "image": "/images/CTG26074044B_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4474449970?utm_source=blog&utm_medium=niche_page&utm_campaign=ctg",
+          "price": "$78.80",
+          "tags": [
+            "frog floral blanket",
+            "frog throw blanket",
+            "cottagecore frog",
+            "dark floral blanket",
+            "nature lover gift",
+            "botanical throw"
+          ],
+          "design_id": "CTG26074044B_raw",
+          "etsy_listing_id": "4474449970"
+        },
+        {
+          "title": "Frog and Rose Wreath Woven Throw Blanket, Cottagecore Decor, Nature Gift",
+          "intro": "A cute green frog sits centered inside a circular wreath of pink roses and dark leaves on a deep black background. Soft pink blooms and tiny white star accents give the design a cozy, nature-inspired feel. The simple, bold illustration style makes it a fun statement piece for any room.",
+          "image": "/images/CTG26074044C_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4474667087?utm_source=blog&utm_medium=niche_page&utm_campaign=ctg",
+          "price": "$78.80",
+          "tags": [
+            "frog blanket",
+            "frog rose decor",
+            "cottagecore frog",
+            "dark floral blanket",
+            "cottagecore decor",
+            "nature throw blanket"
+          ],
+          "design_id": "CTG26074044C_raw",
+          "etsy_listing_id": "4474667087"
+        },
+        {
+          "title": "Illuminated Frog Woven Throw Blanket, Cottagecore Decor, Nature Lover Gift",
+          "intro": "A bold green frog is framed inside an ornate illuminated letter in red and cobalt blue, surrounded by pink flowers and green leafy vines on a deep black background. The design draws from medieval manuscript art with a cottagecore nature twist. Rich colors and detailed linework give it a striking, storybook feel.",
+          "image": "/images/CTG26074044D_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4474724267?utm_source=blog&utm_medium=niche_page&utm_campaign=ctg",
+          "price": "$78.80",
+          "tags": [
+            "frog woven blanket",
+            "medieval illuminated",
+            "frog floral decor",
+            "cottagecore throw",
+            "dark floral throw",
+            "nature lover gift"
+          ],
+          "design_id": "CTG26074044D_raw",
+          "etsy_listing_id": "4474724267"
+        },
+        {
+          "title": "Owl Fox Forest Woven Throw Blanket, Woodland Home Decor, Nature Gift",
+          "intro": "A wise owl perches above a moonlit tree hollow where two red foxes rest together among mushrooms and lush green ferns. The scene glows with warm amber and deep forest tones against a night sky. Perfect for nature lovers who want cozy woodland charm in their home.",
+          "image": "/images/CTG26074044E_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4475119339?utm_source=blog&utm_medium=niche_page&utm_campaign=ctg",
+          "price": "$78.80",
+          "tags": [
+            "owl fox blanket",
+            "woodland fox throw",
+            "mushroom forest",
+            "forest animals",
+            "dark woodland decor",
+            "nature lover gift"
+          ],
+          "design_id": "CTG26074044E_raw",
+          "etsy_listing_id": "4475119339"
+        },
+        {
+          "title": "Beetles Mushrooms Crystals Skull Woven Throw Blanket, Dark Nature Decor, Gift for Her",
+          "intro": "This blanket shows colorful beetles, spotted mushrooms, and glowing crystals arranged on a deep black background. Green plants and small flowers frame each element, with a tiny animal skull tucked among them. The rich jewel tones of purple, orange, and green pop against the dark base for a nature curiosity cabinet feel.",
+          "image": "/images/CTG26074044F_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4475171097?utm_source=blog&utm_medium=niche_page&utm_campaign=ctg",
+          "price": "$78.80",
+          "tags": [
+            "mushroom crystal",
+            "beetle blanket",
+            "skull mushroom decor",
+            "dark cottagecore",
+            "witchy home decor",
+            "nature collection"
+          ],
+          "design_id": "CTG26074044F_raw",
+          "etsy_listing_id": "4475171097"
+        },
+        {
+          "title": "Tree of Life Folk Art Woven Throw Blanket, Botanical Home Decor, Nature Gift",
+          "intro": "A white tree of life rises from deep roots against a black background, surrounded by colorful folk-style flowers in pink, orange, lavender, and red. Bright blooms and green leaves fill the borders in a cheerful, hand-drawn style. The bold contrast and warm colors make this a striking piece for any nature-loving home.",
+          "image": "/images/CTG26074056A_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4474999394?utm_source=blog&utm_medium=niche_page&utm_campaign=ctg",
+          "price": "$78.80",
+          "tags": [
+            "tree of life blanket",
+            "folk art floral",
+            "botanical throw",
+            "nature home decor",
+            "dark floral blanket",
+            "cottagecore blanket"
+          ],
+          "design_id": "CTG26074056A_raw",
+          "etsy_listing_id": "4474999394"
+        },
+        {
+          "title": "Tree of Life Birds and Flowers Woven Throw Blanket, Cottagecore Home Decor, Nature Gift",
+          "intro": "A detailed tree of life rises from gnarled roots against a deep chocolate brown background. Warm rust, orange, and cream leaves fill the branches, with pink flowers and fern fronds framing the base. Two small birds perch in the canopy, giving this piece a quiet folk art charm.",
+          "image": "/images/CTG26074056B_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4474504514?utm_source=blog&utm_medium=niche_page&utm_campaign=ctg",
+          "price": "$78.80",
+          "tags": [
+            "tree of life blanket",
+            "folk art tree throw",
+            "bird tree blanket",
+            "cottagecore throw",
+            "dark botanical decor",
+            "nature lover gift"
+          ],
+          "design_id": "CTG26074056B_raw",
+          "etsy_listing_id": "4474504514"
+        }
+      ],
+      "related_niches": [
+        {
+          "name": "Mushroom Decor",
+          "slug": "mushroom-decor"
+        },
+        {
+          "name": "Victorian & Verdure",
+          "slug": "victorian-verdure"
+        },
+        {
+          "name": "Ocean & Coastal Decor",
+          "slug": "ocean-coastal-decor"
+        }
+      ],
+      "top_keywords": [
+        "tapestry",
+        "fall decor",
+        "gift for her",
+        "mushroom",
+        "woven blanket",
+        "blanket",
+        "medieval tapestry",
+        "gift for mom",
+        "dark academia"
+      ],
+      "total_listings": 73,
+      "content": {
+        "hero_intro": null,
+        "why_section": null,
+        "style_tips": null,
+        "faq": []
+      }
+    },
+    {
+      "code": "ARN",
+      "display_name": "Art Nouveau Style",
+      "slug": "art-nouveau-decor",
+      "title": "Art Nouveau Home Decor: Botanical Woven Blankets & Floral Throws",
+      "meta_description": "Art Nouveau inspired woven blankets with flowing botanical designs, ornate florals, and Mucha-style patterns. Handwoven 100% cotton jacquard throws.",
+      "products": [
+        {
+          "title": "Art Nouveau Floral Botanical Woven Throw Blanket, Vintage Home Decor, Gift for Her",
+          "intro": "Large pink, red, and golden poppies grow from symmetrical curling stems on a deep navy background. Lush green foliage frames bold blooms in a classic Arts and Crafts style. Rich jewel tones and balanced design give this blanket a warm, vintage feel.",
+          "image": "/images/ART26074028A_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4474223733?utm_source=blog&utm_medium=niche_page&utm_campaign=arn",
+          "price": "$78.80",
+          "tags": [
+            "art nouveau floral",
+            "botanical poppies",
+            "dark navy blooms"
+          ],
+          "design_id": "ART26074028A_raw",
+          "etsy_listing_id": "4474223733"
+        },
+        {
+          "title": "Art Nouveau Floral Stem Woven Throw Blanket, Botanical Home Decor, Housewarming Gift",
+          "intro": "A symmetrical floral design with carnations and poppies rising from a central stem against a deep navy background. Red, coral, and pink blooms are framed by green leaves and ornate gold scrollwork at the base. Bold colors and classic symmetry give it a timeless, elegant look.",
+          "image": "/images/ART26074028B_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4474963797?utm_source=blog&utm_medium=niche_page&utm_campaign=arn",
+          "price": "$78.80",
+          "tags": [
+            "art nouveau floral",
+            "dark floral",
+            "gold scrollwork"
+          ],
+          "design_id": "ART26074028B_raw",
+          "etsy_listing_id": "4474963797"
+        },
+        {
+          "title": "French Chateau Garden Art Nouveau Woven Throw Blanket, Vintage Home Decor, Housewarming Gift",
+          "intro": "A grand French chateau sits at the end of a winding garden path, framed by lush green trees and coral poppy flowers. The scene is bordered by an elegant Art Nouveau vine frame with curling green leaves and orange lily blooms. Soft cream tones and muted greens give this design a calm, vintage feel.",
+          "image": "/images/ART26074028C_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4474782283?utm_source=blog&utm_medium=niche_page&utm_campaign=arn",
+          "price": "$78.80",
+          "tags": [
+            "french chateau",
+            "art nouveau frame",
+            "garden path"
+          ],
+          "design_id": "ART26074028C_raw",
+          "etsy_listing_id": "4474782283"
+        },
+        {
+          "title": "Jellyfish Ocean Art Nouveau Woven Throw Blanket, Underwater Decor, Gift Idea",
+          "intro": "This design features colorful jellyfish floating through a deep blue underwater scene, surrounded by coral branches and sea plants. Vibrant shades of pink, orange, and purple glow against the rich navy background. The flowing organic lines give it a classic Art Nouveau feel.",
+          "image": "/images/ART26074028D_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4474654735?utm_source=blog&utm_medium=niche_page&utm_campaign=arn",
+          "price": "$78.80",
+          "tags": [
+            "jellyfish ocean",
+            "art nouveau coral",
+            "underwater scene"
+          ],
+          "design_id": "ART26074028D_raw",
+          "etsy_listing_id": "4474654735"
+        },
+        {
+          "title": "Twin Peacocks Pomegranate Tree Woven Throw Blanket, Art Nouveau Decor, Housewarming Gift",
+          "intro": "Two peacocks face each other beneath a pomegranate tree, their fan tails spread wide with teal and orange eye feathers. Red flowers and deep green leaves fill the borders in a classic Arts and Crafts style. The cream background keeps the rich colors bold and warm.",
+          "image": "/images/ART26074028E_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4474656141?utm_source=blog&utm_medium=niche_page&utm_campaign=arn",
+          "price": "$78.80",
+          "tags": [
+            "twin peacocks",
+            "pomegranate tree",
+            "art nouveau birds"
+          ],
+          "design_id": "ART26074028E_raw",
+          "etsy_listing_id": "4474656141"
+        },
+        {
+          "title": "Cats in Fancy Clothes Dinner Party Woven Throw Blanket, Folk Art Cat Decor, Cat Lover Gift",
+          "intro": "A cheerful gathering of cats dressed in colorful Renaissance style clothing sits around a dinner table piled with food and drinks. Bold folk art borders of red flowers and green leaves frame the scene, with a warm glowing sun and mountain landscape in the background. Rich blues, yellows, and greens give it a storybook charm.",
+          "image": "/images/ART26074028F_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4475029552?utm_source=blog&utm_medium=niche_page&utm_campaign=arn",
+          "price": "$78.80",
+          "tags": [
+            "cat dinner party",
+            "cats in clothes",
+            "folk art cat",
+            "cat lover gift",
+            "vintage folk art",
+            "funny cat decor"
+          ],
+          "design_id": "ART26074028F_raw",
+          "etsy_listing_id": "4475029552"
+        },
+        {
+          "title": "Bluebirds and Strawberries Woven Throw Blanket, Art Nouveau Nature Decor, Housewarming Gift",
+          "intro": "Three bluebirds perch on twisting branches surrounded by ripe red strawberries and lush green leaves on a rich black background. The bold, flat illustration style draws from classic Arts and Crafts nature prints with a modern graphic edge. Deep blue, red, and green create a striking contrast that works beautifully in bedroom or living room decor.",
+          "image": "/images/ART26074028G_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4475122830?utm_source=blog&utm_medium=niche_page&utm_campaign=arn",
+          "price": "$78.80",
+          "tags": [
+            "bluebird throw blank",
+            "strawberry bird deco",
+            "birds and fruit blan",
+            "arts and crafts deco",
+            "nature botanical bla",
+            "dark floral throw"
+          ],
+          "design_id": "ART26074028G_raw",
+          "etsy_listing_id": "4475122830"
+        },
+        {
+          "title": "Mount Fuji Red Sun Japanese Landscape Woven Throw Blanket, Nature Inspired Decor, Housewarming Gift",
+          "intro": "A bold red sun rises over snow-capped Mount Fuji in this flat graphic Japanese landscape. Winding rivers, red flowering trees, and rolling green hills fill the scene in rich jewel tones of red, teal, and cream. The warm graphic style makes it a striking accent for any living room or bedroom.",
+          "image": "/images/ART26074029A_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4474999227?utm_source=blog&utm_medium=niche_page&utm_campaign=arn",
+          "price": "$78.80",
+          "tags": [
+            "mount fuji blanket",
+            "japanese landscape",
+            "japan throw blanket",
+            "asian art home decor",
+            "nature scene throw",
+            "graphic art blanket"
+          ],
+          "design_id": "ART26074029A_raw",
+          "etsy_listing_id": "4474999227"
+        }
+      ],
+      "related_niches": [
+        {
+          "name": "Victorian & Verdure",
+          "slug": "victorian-verdure"
+        },
+        {
+          "name": "Cottagecore Bedroom",
+          "slug": "cottagecore-bedroom"
+        },
+        {
+          "name": "Celestial Decor",
+          "slug": "celestial-decor"
+        }
+      ],
+      "top_keywords": [
+        "gift for her",
+        "woven blanket",
+        "blanket",
+        "medieval tapestry",
+        "renaissance fair",
+        "dark academia",
+        "whimsigoth decor",
+        "picnic blanket",
+        "anniversary gift"
+      ],
+      "total_listings": 70,
+      "content": {
+        "hero_intro": null,
+        "why_section": null,
+        "style_tips": null,
+        "faq": []
+      }
+    },
+    {
+      "code": "OCN",
+      "display_name": "Ocean & Coastal Decor",
+      "slug": "ocean-coastal-decor",
+      "title": "Ocean & Coastal Decor: Nautical Woven Blankets & Sea Life Throws",
+      "meta_description": "Bring the ocean home with woven blankets featuring sea life, waves, and nautical motifs. Handwoven 100% cotton throws for coastal and beach house decor.",
+      "products": [
+        {
+          "title": "Tropical Fish and Monstera Leaves Woven Throw Blanket, Coastal Decor, Beach House Gift",
+          "intro": "Bold tropical fish swim among oversized monstera and feathery leaves in deep teal, navy, and warm mustard gold on a soft cream background. The flat graphic style gives the design a modern yet relaxed feel. A great pick for beach house living rooms or ocean lovers who want color and personality in their space.",
+          "image": "/images/OCN26074013A_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4474677582?utm_source=blog&utm_medium=niche_page&utm_campaign=ocn",
+          "price": "$78.80",
+          "tags": [
+            "tropical fish blanke",
+            "monstera leaf throw",
+            "coastal teal decor",
+            "beach house blanket",
+            "ocean leaf pattern",
+            "tropical boho throw"
+          ],
+          "design_id": "OCN26074013A_raw",
+          "etsy_listing_id": "4474677582"
+        },
+        {
+          "title": "Tropical Bird Hibiscus Woven Throw Blanket, Botanical Decor, Beach House Gift",
+          "intro": "A bold tropical design featuring a colorful bird surrounded by large hibiscus blooms and lush monstera leaves on a deep navy background. Warm mustard yellow, coral pink, and teal create a vibrant, sun-drenched feel. Perfect for beach house living rooms, vacation homes, or anyone who loves tropical nature.",
+          "image": "/images/OCN26074013B_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4475120233?utm_source=blog&utm_medium=niche_page&utm_campaign=ocn",
+          "price": "$78.80",
+          "tags": [
+            "tropical bird throw",
+            "hibiscus blanket",
+            "tropical floral",
+            "beach house decor",
+            "botanical home gift",
+            "colorful nature"
+          ],
+          "design_id": "OCN26074013B_raw",
+          "etsy_listing_id": "4475120233"
+        },
+        {
+          "title": "Ocean Folk Floral Fish Woven Throw Blanket, Coastal Decor, Beach House Gift",
+          "intro": "A deep navy background anchors a bold geometric flower in blue and gold at the center, ringed by tropical fish, seashells, coral branches, and white blooms arranged in a folk-art border. The palette blends mustard yellow, coral red, teal, and cream for a warm coastal feel. Great for beach houses, lake homes, or anyone who loves the ocean.",
+          "image": "/images/OCN26074013C_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4475175862?utm_source=blog&utm_medium=niche_page&utm_campaign=ocn",
+          "price": "$78.80",
+          "tags": [
+            "ocean folk blanket",
+            "tropical fish throw",
+            "coastal floral throw",
+            "navy blue throw",
+            "beach house decor",
+            "folk floral blanket"
+          ],
+          "design_id": "OCN26074013C_raw",
+          "etsy_listing_id": "4475175862"
+        },
+        {
+          "title": "Jellyfish Floral Dark Navy Woven Throw Blanket, Ocean Nautical Decor, Beach House Gift",
+          "intro": "A jellyfish floats center stage on a deep navy background, surrounded by cream and dusty rose flowers with soft blue-green leaves. The warm terracotta and gold tones of the jellyfish create a striking contrast against the dark field. A calm, nature-inspired ocean design perfect for cozy home decor.",
+          "image": "/images/OCN26074013D_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4475043330?utm_source=blog&utm_medium=niche_page&utm_campaign=ocn",
+          "price": "$78.80",
+          "tags": [
+            "jellyfish blanket",
+            "ocean floral throw",
+            "dark navy blanket",
+            "beach house decor",
+            "retro ocean art",
+            "nautical floral"
+          ],
+          "design_id": "OCN26074013D_raw",
+          "etsy_listing_id": "4475043330"
+        },
+        {
+          "title": "Colorful Octopus Woven Throw Blanket, Ocean Decor, Gift for Sea Life Lover",
+          "intro": "A bold orange and pink octopus spreads its swirling tentacles across a deep black background. Floating bubbles, colorful seaweed, and a starfish fill the scene with ocean life. The vivid jewel-tone palette gives this blanket a rich, graphic poster feel.",
+          "image": "/images/OCN26074013E_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4475026181?utm_source=blog&utm_medium=niche_page&utm_campaign=ocn",
+          "price": "$78.80",
+          "tags": [
+            "octopus blanket",
+            "ocean life throw",
+            "sea creature decor",
+            "dark ocean decor",
+            "nautical blanket",
+            "colorful ocean art"
+          ],
+          "design_id": "OCN26074013E_raw",
+          "etsy_listing_id": "4475026181"
+        },
+        {
+          "title": "Colorful Jellyfish Fish Underwater Scene Woven Throw Blanket, Ocean Decor, Beach Gift",
+          "intro": "Vibrant jellyfish and tropical fish swim through a deep-sea scene bursting with neon pinks, purples, and oranges on a dark navy background. Glowing sea creatures, coral, and starfish fill the canvas with playful underwater energy. Bold, colorful, and eye-catching for any ocean lover.",
+          "image": "/images/OCN26074013F_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4475015310?utm_source=blog&utm_medium=niche_page&utm_campaign=ocn",
+          "price": "$78.80",
+          "tags": [
+            "jellyfish blanket",
+            "underwater fish",
+            "deep sea ocean",
+            "colorful ocean decor",
+            "sea creature throw",
+            "neon ocean art"
+          ],
+          "design_id": "OCN26074013F_raw",
+          "etsy_listing_id": "4475015310"
+        },
+        {
+          "title": "Whale Shark Coral Reef Woven Throw Blanket, Coastal Ocean Decor, Beach House Gift",
+          "intro": "A massive whale shark glides through a vibrant coral reef alive with tropical fish in yellow, orange, and gold. Deep blue water fills the scene as light rays stream down from above, surrounded by rich red, purple, and orange coral. Bold underwater colors make this blanket a striking piece for any ocean lover's space.",
+          "image": "/images/OCN26074013G_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4475021647?utm_source=blog&utm_medium=niche_page&utm_campaign=ocn",
+          "price": "$78.80",
+          "tags": [
+            "whale shark blanket",
+            "coral reef throw",
+            "tropical fish decor",
+            "ocean decor blanket",
+            "underwater art decor",
+            "ocean wildlife throw"
+          ],
+          "design_id": "OCN26074013G_raw",
+          "etsy_listing_id": "4475021647"
+        },
+        {
+          "title": "Colorful Coral Reef Woven Throw Blanket, Coastal Beach Decor, Beach House Gift",
+          "intro": "A bright underwater coral reef scene filled with bold flat shapes in red, orange, purple, green, and blue. Sandy shoreline and ocean waves frame the top while vibrant corals and sea creatures fill the canvas. The modern flat art style brings a cheerful, tropical energy to any coastal space.",
+          "image": "/images/OCN26074014A_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4475210130?utm_source=blog&utm_medium=niche_page&utm_campaign=ocn",
+          "price": "$78.80",
+          "tags": [
+            "coral reef blanket",
+            "ocean coral throw",
+            "tropical reef decor",
+            "coastal home decor",
+            "beach house blanket",
+            "colorful ocean art"
+          ],
+          "design_id": "OCN26074014A_raw",
+          "etsy_listing_id": "4475210130"
+        }
+      ],
+      "related_niches": [
+        {
+          "name": "Cottagecore Bedroom",
+          "slug": "cottagecore-bedroom"
+        },
+        {
+          "name": "Celestial Decor",
+          "slug": "celestial-decor"
+        },
+        {
+          "name": "Southwestern Blankets",
+          "slug": "southwestern-blankets"
+        }
+      ],
+      "top_keywords": [
+        "tapestry",
+        "ocean themed blanket",
+        "nautical woven throw",
+        "coastal home blanket",
+        "gift for her",
+        "woven blanket",
+        "blanket",
+        "valentines day gift",
+        "engagement gift"
+      ],
+      "total_listings": 68,
+      "content": {
+        "hero_intro": null,
+        "why_section": null,
+        "style_tips": null,
+        "faq": []
+      }
+    },
+    {
+      "code": "MCM",
+      "display_name": "Mid-Century Modern Throws",
+      "slug": "mid-century-modern-throws",
+      "title": "Mid-Century Modern Throws: Retro Woven Blankets & Atomic Age Decor",
+      "meta_description": "Mid-century modern woven blankets with retro geometric patterns and atomic age designs. 100% cotton jacquard throws for vintage modern living rooms.",
+      "products": [
+        {
+          "title": "Bold Retro Floral Woven Throw Blanket, Mid Century Modern Decor, Housewarming Gift",
+          "intro": "This design features bold cutout-style flowers and leaves in red, yellow, purple, and dark green on a cream background. The flat graphic shapes and bright colors bring a playful mid century modern feel. It works great as a couch throw or colorful wall accent.",
+          "image": "/images/RET26074026A_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4474438215?utm_source=blog&utm_medium=niche_page&utm_campaign=mcm",
+          "price": "$78.80",
+          "tags": [
+            "retro floral blanket",
+            "mid century modern",
+            "bold flower throw",
+            "colorful floral deco",
+            "modern art blanket",
+            "graphic floral gift"
+          ],
+          "design_id": "RET26074026A_raw",
+          "etsy_listing_id": "4474438215"
+        },
+        {
+          "title": "Bold Abstract Leaf and Floral Woven Throw Blanket, Mid Century Modern Decor, Housewarming Gift",
+          "intro": "Bold organic leaf shapes and daisy blooms fill the canvas in deep teal, charcoal, and cream. The flat cutout style draws from mid century modern design with clean lines and playful asymmetry. A striking piece for living room walls or cozy couch throws.",
+          "image": "/images/RET26074026B_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4474732858?utm_source=blog&utm_medium=niche_page&utm_campaign=mcm",
+          "price": "$78.80",
+          "tags": [
+            "abstract leaf blanke",
+            "teal floral blanket",
+            "mid century blanket",
+            "retro floral decor",
+            "modern botanical",
+            "mid century modern"
+          ],
+          "design_id": "RET26074026B_raw",
+          "etsy_listing_id": "4474732858"
+        },
+        {
+          "title": "Bold Abstract Floral Mid Century Modern Woven Throw Blanket, Retro Living Room Decor, Housewarming Gift",
+          "intro": "Bold abstract flowers and organic leaf shapes fill the canvas in classic mid century modern style. Deep navy, orange red, forest green and golden yellow pop against a warm cream background. The simple graphic shapes give it a playful retro energy that works great in living rooms and dens.",
+          "image": "/images/RET26074026C_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4475121183?utm_source=blog&utm_medium=niche_page&utm_campaign=mcm",
+          "price": "$78.80",
+          "tags": [
+            "mid century floral",
+            "retro floral blanket",
+            "abstract flower thro",
+            "retro modern decor",
+            "bold floral decor",
+            "vintage modern gift"
+          ],
+          "design_id": "RET26074026C_raw",
+          "etsy_listing_id": "4475121183"
+        },
+        {
+          "title": "Retro Sunburst Rays Woven Throw Blanket, Mid Century Modern Decor, Housewarming Gift",
+          "intro": "Bold sunburst rays radiate from a warm orange sun at the center, fanning out in alternating stripes of rust, teal, mustard, and cream. The retro color palette and graphic style bring a vintage 1960s energy to any room. Clean lines and a striking composition make this a standout piece for living rooms or cozy reading nooks.",
+          "image": "/images/RET26074028C_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4475297883?utm_source=blog&utm_medium=niche_page&utm_campaign=mcm",
+          "price": "$78.80",
+          "tags": [
+            "retro sunburst blank",
+            "70s sun rays throw",
+            "mid century modern",
+            "vintage geometric",
+            "retro home decor",
+            "groovy boho throw"
+          ],
+          "design_id": "RET26074028C_raw",
+          "etsy_listing_id": "4475297883"
+        },
+        {
+          "title": "Mid Century Geometric Grid Woven Throw Blanket, Retro Home Decor, Housewarming Gift",
+          "intro": "This blanket features a bold grid of retro panels showcasing stacked zen stones, concentric circle ripples, and classic checkered patterns. Colors include warm terracotta, forest green, mustard yellow, and deep navy on a clean grid layout. The mix of organic shapes and sharp geometry gives it a calm, playful mid-century modern feel.",
+          "image": "/images/RET26074028D_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4475239419?utm_source=blog&utm_medium=niche_page&utm_campaign=mcm",
+          "price": "$78.80",
+          "tags": [
+            "zen stones blanket",
+            "retro grid blanket",
+            "checkered pattern",
+            "mid century modern",
+            "retro geometric",
+            "colorful home decor"
+          ],
+          "design_id": "RET26074028D_raw",
+          "etsy_listing_id": "4475239419"
+        },
+        {
+          "title": "Mid Century Modern Mountain Forest Woven Throw Blanket, Retro Nature Decor, Housewarming Gift",
+          "intro": "Bold geometric shapes form a retro mountain landscape with tall pine trees and a large orange sun. The design uses a warm earthy palette of rust, teal, olive green, and mustard yellow against a cream background. Clean flat shapes give it a classic mid century modern feel.",
+          "image": "/images/RET26074028E_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4475241644?utm_source=blog&utm_medium=niche_page&utm_campaign=mcm",
+          "price": "$78.80",
+          "tags": [
+            "mid century modern",
+            "retro mountain",
+            "geometric forest",
+            "retro nature decor",
+            "70s style decor",
+            "mountain cabin decor"
+          ],
+          "design_id": "RET26074028E_raw",
+          "etsy_listing_id": "4475241644"
+        },
+        {
+          "title": "Retro Space Rockets Planets Woven Throw Blanket, Mid Century Modern Decor, Space Lover Gift",
+          "intro": "Bold retro rockets blast through a deep black sky filled with ringed planets and starburst stars. Rich teals, warm oranges, and creamy whites come together in a classic 1950s atomic age graphic style. A statement piece for any space lover or retro modern living space.",
+          "image": "/images/RET26074028F_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4475265008?utm_source=blog&utm_medium=niche_page&utm_campaign=mcm",
+          "price": "$78.80",
+          "tags": [
+            "retro rocket blanket",
+            "space planets throw",
+            "atomic age space",
+            "mid century modern",
+            "retro space decor",
+            "space lover gift"
+          ],
+          "design_id": "RET26074028F_raw",
+          "etsy_listing_id": "4475265008"
+        },
+        {
+          "title": "Mid Century Floral Grid Woven Throw Blanket, Retro Home Decor, Housewarming Gift",
+          "intro": "Bold tulips, daisies, and geometric blooms fill a bright checkered grid of orange, teal, purple, navy, and red squares. Each flower is rendered in clean flat shapes with a playful, graphic look. The result is a cheerful retro pattern full of color and energy.",
+          "image": "/images/RET26074028G_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4475285023?utm_source=blog&utm_medium=niche_page&utm_campaign=mcm",
+          "price": "$78.80",
+          "tags": [
+            "retro floral grid",
+            "mid century flowers",
+            "colorful flower grid",
+            "retro geometric",
+            "70s flower decor",
+            "bold floral decor"
+          ],
+          "design_id": "RET26074028G_raw",
+          "etsy_listing_id": "4475285023"
+        }
+      ],
+      "related_niches": [
+        {
+          "name": "Art Nouveau Style",
+          "slug": "art-nouveau-decor"
+        },
+        {
+          "name": "Southwestern Blankets",
+          "slug": "southwestern-blankets"
+        },
+        {
+          "name": "Ocean & Coastal Decor",
+          "slug": "ocean-coastal-decor"
+        }
+      ],
+      "top_keywords": [
+        "crochet blanket",
+        "crochet",
+        "2000s throw blanket",
+        "gift for her",
+        "baby blanket",
+        "woven blanket",
+        "blanket",
+        "customizable blanket",
+        "gift for mom"
+      ],
+      "total_listings": 67,
+      "content": {
+        "hero_intro": null,
+        "why_section": null,
+        "style_tips": null,
+        "faq": []
+      }
+    },
+    {
+      "code": "SWN",
+      "display_name": "Southwestern Blankets",
+      "slug": "southwestern-blankets",
+      "title": "Southwestern Blankets: Desert & Boho Woven Throws",
+      "meta_description": "Southwestern-style woven blankets with desert motifs, geometric patterns, and boho aesthetics. Handwoven 100% cotton throws for southwestern home decor.",
+      "products": [
+        {
+          "title": "Southwestern Geometric Tribal Woven Throw Blanket, Rustic Boho Decor, Housewarming Gift",
+          "intro": "Bold geometric shapes in warm terracotta, sage green, and cream fill every inch of this striking blanket. Repeating diamond and stepped border patterns create a rich, layered look inspired by traditional Native American textiles. The earthy gold background ties it all together for a cozy, grounded feel.",
+          "image": "/images/SWA26074016A_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4474439027?utm_source=blog&utm_medium=niche_page&utm_campaign=swn",
+          "price": "$78.80",
+          "tags": [
+            "southwestern blanket",
+            "tribal geometric thr",
+            "native pattern blank",
+            "rustic boho decor",
+            "earthy geometric",
+            "aztec throw blanket"
+          ],
+          "design_id": "SWA26074016A_raw",
+          "etsy_listing_id": "4474439027"
+        },
+        {
+          "title": "Southwestern Geometric Woven Throw Blanket, Tribal Home Decor, Housewarming Gift",
+          "intro": "Bold diamond and star geometric patterns fill this striking blanket in deep black, teal, and cream with warm copper accents. The layered Southwestern shapes create a rich, structured look with strong contrast. Great for adding a tribal, earthy feel to any living room or bedroom.",
+          "image": "/images/SWA26074016B_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4474727187?utm_source=blog&utm_medium=niche_page&utm_campaign=swn",
+          "price": "$78.80",
+          "tags": [
+            "southwestern geometr",
+            "tribal throw blanket",
+            "aztec star blanket",
+            "native pattern decor",
+            "teal black blanket",
+            "boho geometric throw"
+          ],
+          "design_id": "SWA26074016B_raw",
+          "etsy_listing_id": "4474727187"
+        },
+        {
+          "title": "Southwestern Diamond Tribal Woven Throw Blanket, Rustic Home Decor, Housewarming Gift",
+          "intro": "Bold concentric diamond shapes radiate from the center in deep terracotta, black, and forest green against a warm cream background. Gold accents add warmth to the geometric zigzag border framing the design. The earthy palette and sharp angles bring a grounded, rustic energy to any living space.",
+          "image": "/images/SWA26074016C_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4474749767?utm_source=blog&utm_medium=niche_page&utm_campaign=swn",
+          "price": "$78.80",
+          "tags": [
+            "southwestern diamond",
+            "tribal geometric",
+            "native pattern throw",
+            "rustic home decor",
+            "earthy blanket",
+            "boho geometric"
+          ],
+          "design_id": "SWA26074016C_raw",
+          "etsy_listing_id": "4474749767"
+        },
+        {
+          "title": "Southwestern Moon Diamond Woven Throw Blanket, Tribal Home Decor, Housewarming Gift",
+          "intro": "A bold geometric pattern with repeating diamond frames holds crescent moons and star bursts at every center. Deep teal and forest green grounds contrast warm terracotta red and sandy cream points for a rich earthy feel. The repeating design brings a grounded, starry night energy to any couch or bed.",
+          "image": "/images/SWA26074016D_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4475125298?utm_source=blog&utm_medium=niche_page&utm_campaign=swn",
+          "price": "$78.80",
+          "tags": [
+            "southwestern geometr",
+            "tribal moon blanket",
+            "aztec diamond throw",
+            "earthy boho decor",
+            "rustic tribal patter",
+            "native star blanket"
+          ],
+          "design_id": "SWA26074016D_raw",
+          "etsy_listing_id": "4475125298"
+        },
+        {
+          "title": "Southwestern Diamond Geometric Woven Throw Blanket, Rustic Boho Decor, Housewarming Gift",
+          "intro": "Bold concentric diamond shapes fill the canvas in rich terracotta, teal, mustard, and cream. The repeating geometric pattern has a strong, graphic energy rooted in classic Southwestern weaving traditions. Warm earthy tones make it an easy fit for rustic, boho, or desert-inspired spaces.",
+          "image": "/images/SWA26074016E_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4475176776?utm_source=blog&utm_medium=niche_page&utm_campaign=swn",
+          "price": "$78.80",
+          "tags": [
+            "southwestern geometr",
+            "diamond pattern thro",
+            "tribal blanket",
+            "rustic home decor",
+            "earthy tones blanket",
+            "boho geometric decor"
+          ],
+          "design_id": "SWA26074016E_raw",
+          "etsy_listing_id": "4475176776"
+        },
+        {
+          "title": "Roadrunner and Coyote Desert Woven Throw Blanket, Southwestern Decor, Nature Lover Gift",
+          "intro": "This blanket features a bold folk art roadrunner and coyote set against a warm golden desert landscape. Saguaro cacti, agave plants, and red mesas fill the background in rich oranges, teals, and greens. The flat graphic style gives it a vibrant, playful Southwestern feel.",
+          "image": "/images/SWA26074017F_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4475308552?utm_source=blog&utm_medium=niche_page&utm_campaign=swn",
+          "price": "$78.80",
+          "tags": [
+            "roadrunner blanket",
+            "coyote desert throw",
+            "cactus desert art",
+            "southwest folk art",
+            "desert wildlife",
+            "native desert decor"
+          ],
+          "design_id": "SWA26074017F_raw",
+          "etsy_listing_id": "4475308552"
+        },
+        {
+          "title": "Aztec Diamond Geometric Woven Throw Blanket, Southwestern Decor, Housewarming Gift",
+          "intro": "Bold concentric diamond shapes fill this blanket in warm terracotta, teal, cream, and dark brown. The clean geometric pattern pulls from classic Southwestern textile traditions. It brings a grounded, earthy feel to any living room or bedroom.",
+          "image": "/images/SWA26074017G_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4475301143?utm_source=blog&utm_medium=niche_page&utm_campaign=swn",
+          "price": "$78.80",
+          "tags": [
+            "aztec diamond blanke",
+            "southwest geometric",
+            "terracotta teal deco",
+            "tribal stripe throw",
+            "desert geometric",
+            "earthy boho blanket"
+          ],
+          "design_id": "SWA26074017G_raw",
+          "etsy_listing_id": "4475301143"
+        },
+        {
+          "title": "Desert Cactus Mesa Woven Throw Blanket, Southwest Decor, Housewarming Gift",
+          "intro": "Tall saguaro cacti stand against a warm desert landscape with a flat-topped mesa rising in the background. The color palette blends terracotta, sandy tan, and muted sage green for a sun-baked desert feel. Clean, graphic shapes give it a retro poster quality that works great in living rooms and cabins.",
+          "image": "/images/SWA26074018A_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4475043996?utm_source=blog&utm_medium=niche_page&utm_campaign=swn",
+          "price": "$78.80",
+          "tags": [
+            "desert cactus throw",
+            "mesa desert blanket",
+            "saguaro cactus decor",
+            "southwest decor",
+            "retro desert art",
+            "western landscape"
+          ],
+          "design_id": "SWA26074018A_raw",
+          "etsy_listing_id": "4475043996"
+        }
+      ],
+      "related_niches": [
+        {
+          "name": "Mid-Century Modern Throws",
+          "slug": "mid-century-modern-throws"
+        },
+        {
+          "name": "Horse Lover Gifts",
+          "slug": "horse-lover-gifts"
+        },
+        {
+          "name": "Ocean & Coastal Decor",
+          "slug": "ocean-coastal-decor"
+        }
+      ],
+      "top_keywords": [
+        "gift for him",
+        "gift for her",
+        "woven blanket",
+        "wall art",
+        "picnic blanket",
+        "native blanket",
+        "housewarming gift",
+        "wall tapestry",
+        "textile wall art"
+      ],
+      "total_listings": 65,
+      "content": {
+        "hero_intro": null,
+        "why_section": null,
+        "style_tips": null,
+        "faq": []
+      }
+    },
+    {
+      "code": "VIC",
+      "display_name": "Victorian & Verdure",
+      "slug": "victorian-verdure",
+      "title": "Victorian & Verdure Decor: Botanical Tapestry Woven Blankets",
+      "meta_description": "Victorian-inspired verdure tapestry blankets with lush botanical designs. William Morris-style woven throws in 100% cotton for elegant home decor.",
+      "products": [
+        {
+          "title": "Baroque Floral Garden Woven Throw Blanket, Maximalist Home Decor, Housewarming Gift",
+          "intro": "Bold peonies and roses bloom across a deep burgundy background in rich pink, gold, and teal. The lush floral arrangement has a classic tapestry feel with full blooms, buds, and dark leafy stems. A dramatic and colorful piece that adds warmth to any living room or bedroom.",
+          "image": "/images/VIC26074011A_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4474439875?utm_source=blog&utm_medium=niche_page&utm_campaign=vic",
+          "price": "$78.80",
+          "tags": [
+            "baroque floral throw",
+            "peony blanket",
+            "dark floral blanket",
+            "maximalist home deco",
+            "vintage floral decor",
+            "dark botanical gift"
+          ],
+          "design_id": "VIC26074011A_raw",
+          "etsy_listing_id": "4474439875"
+        },
+        {
+          "title": "Peony Garden Woven Throw Blanket, Floral Home Decor, Housewarming Gift",
+          "intro": "Bold peonies in blush pink and deep burgundy bloom across a dark background, surrounded by rich green, teal, and golden leaves. The design covers the full canvas with a dense, all-over botanical pattern inspired by vintage European tapestries. Deep jewel tones and a dramatic dark ground make it a striking accent for any room.",
+          "image": "/images/VIC26074011B_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4474728111?utm_source=blog&utm_medium=niche_page&utm_campaign=vic",
+          "price": "$78.80",
+          "tags": [
+            "peony floral blanket",
+            "dark floral throw",
+            "botanical tapestry",
+            "vintage floral decor",
+            "maximalist blanket",
+            "jewel tone decor"
+          ],
+          "design_id": "VIC26074011B_raw",
+          "etsy_listing_id": "4474728111"
+        },
+        {
+          "title": "Vintage Floral Bouquet Woven Throw Blanket, Victorian Floral Decor, Housewarming Gift",
+          "intro": "A bold floral bouquet of deep crimson and blush peonies fills an oval frame against a rich plum background. Dark green leaves and layered petals give the design a lush, painterly feel. The classic composition feels at home in traditional, vintage, or maximalist interiors.",
+          "image": "/images/VIC26074011C_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4475172351?utm_source=blog&utm_medium=niche_page&utm_campaign=vic",
+          "price": "$78.80",
+          "tags": [
+            "peony floral blanket",
+            "vintage floral throw",
+            "dark floral blanket",
+            "victorian floral dec",
+            "maximalist home deco",
+            "floral tapestry thro"
+          ],
+          "design_id": "VIC26074011C_raw",
+          "etsy_listing_id": "4475172351"
+        },
+        {
+          "title": "Underwater Coral Reef Woven Throw Blanket, Ocean Decor, Nature Gift",
+          "intro": "An underwater world fills this blanket with dense coral branches, swaying sea plants, and large anemone blooms in pink, red, and green. Small fish dart through beams of blue light filtering down from above. The rich, layered composition brings an ocean garden feel to any room.",
+          "image": "/images/VIC26074011D_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4475194200?utm_source=blog&utm_medium=niche_page&utm_campaign=vic",
+          "price": "$78.80",
+          "tags": [
+            "coral reef blanket",
+            "underwater blanket",
+            "sea life throw",
+            "ocean decor gift",
+            "colorful ocean art",
+            "tropical sea decor"
+          ],
+          "design_id": "VIC26074011D_raw",
+          "etsy_listing_id": "4475194200"
+        },
+        {
+          "title": "Medieval Castle Forest Woven Throw Blanket, Storybook Home Decor, Fantasy Gift",
+          "intro": "A fairytale castle sits atop a forested hill, surrounded by tall pine trees and lush green valleys. A winding river curves through the landscape below, with soft pink flowers blooming in the foreground. The design has a vintage travel poster feel with rich greens, muted pinks, and warm stone tones.",
+          "image": "/images/VIC26074011E_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4475038867?utm_source=blog&utm_medium=niche_page&utm_campaign=vic",
+          "price": "$78.80",
+          "tags": [
+            "forest castle throw",
+            "medieval blanket",
+            "fairytale castle",
+            "nature landscape",
+            "vintage forest decor",
+            "storybook blanket"
+          ],
+          "design_id": "VIC26074011E_raw",
+          "etsy_listing_id": "4475038867"
+        },
+        {
+          "title": "Unicorn Garden Woven Throw Blanket, Fairytale Floral Decor, Fantasy Gift",
+          "intro": "A white unicorn stands in a lush garden framed by rose bushes, iris flowers, and pomegranate trees under a soft pink sky. Deep greens and blush pinks give this design a storybook charm. Perfect for anyone who loves fantasy art and nature-inspired home decor.",
+          "image": "/images/VIC26074011F_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4475200916?utm_source=blog&utm_medium=niche_page&utm_campaign=vic",
+          "price": "$78.80",
+          "tags": [
+            "unicorn blanket",
+            "floral garden throw",
+            "fairytale blanket",
+            "fantasy floral decor",
+            "cottagecore blanket",
+            "nature fairy tale"
+          ],
+          "design_id": "VIC26074011F_raw",
+          "etsy_listing_id": "4475200916"
+        },
+        {
+          "title": "Tropical Parrots Garden Woven Throw Blanket, Nature Decor, Housewarming Gift",
+          "intro": "Two vibrant macaw parrots face each other on lush branches surrounded by tropical leaves, pink flowers, and colorful fruits. A serene landscape of water and green hills fills the background. Rich greens, reds, and yellows make this a bold and lively piece for any room.",
+          "image": "/images/VIC26074011G_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4475207702?utm_source=blog&utm_medium=niche_page&utm_campaign=vic",
+          "price": "$78.80",
+          "tags": [
+            "tropical parrot blan",
+            "macaw bird throw",
+            "jungle garden blanke",
+            "colorful bird decor",
+            "tropical nature deco",
+            "botanical wildlife"
+          ],
+          "design_id": "VIC26074011G_raw",
+          "etsy_listing_id": "4475207702"
+        },
+        {
+          "title": "Swan Lake Chateau Woven Throw Blanket, French Garden Decor, Housewarming Gift",
+          "intro": "A white swan glides across a calm green lake in front of a grand French chateau. Lush trees and pink blooms frame the scene in soft pastels and warm greens. The peaceful garden setting has a romantic old world country feel.",
+          "image": "/images/VIC26074012A_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4474471981?utm_source=blog&utm_medium=niche_page&utm_campaign=vic",
+          "price": "$78.80",
+          "tags": [
+            "swan lake blanket",
+            "french chateau throw",
+            "garden scene blanket",
+            "cottagecore throw",
+            "romantic home decor",
+            "vintage nature art"
+          ],
+          "design_id": "VIC26074012A_raw",
+          "etsy_listing_id": "4474471981"
+        }
+      ],
+      "related_niches": [
+        {
+          "name": "Art Nouveau Style",
+          "slug": "art-nouveau-decor"
+        },
+        {
+          "name": "Cottagecore Bedroom",
+          "slug": "cottagecore-bedroom"
+        },
+        {
+          "name": "Bookish Home Decor",
+          "slug": "bookish-decor"
+        }
+      ],
+      "top_keywords": [
+        "uncanny valley art",
+        "gift for him",
+        "gift for her",
+        "woven blanket",
+        "medieval tapestry",
+        "renaissance fair",
+        "gift for mom",
+        "whimsigoth decor",
+        "picnic blanket"
+      ],
+      "total_listings": 35,
+      "content": {
+        "hero_intro": null,
+        "why_section": null,
+        "style_tips": null,
+        "faq": []
+      }
+    },
+    {
+      "code": "HRS",
+      "display_name": "Horse Lover Gifts",
+      "slug": "horse-lover-gifts",
+      "title": "Horse Lover Gifts: Equestrian Woven Blankets & Western Throws",
+      "meta_description": "Beautiful horse-themed woven blankets for equestrian lovers. Western and ranch-inspired throws jacquard-woven in 100% cotton. Perfect horse lover gifts.",
+      "products": [
+        {
+          "title": "Horse Rider Forest Toile Woven Throw Blanket, Country Home Decor, Horse Lover Gift",
+          "intro": "A classic toile scene featuring a rider on horseback moving through a lush forest. Deep green trees frame the composition while cheerful wildflowers line the bottom border. The warm cream background gives it a timeless French country feel.",
+          "image": "/images/HRS26074003A_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4474226917?utm_source=blog&utm_medium=niche_page&utm_campaign=hrs",
+          "price": "$78.80",
+          "tags": [
+            "horse rider toile",
+            "equestrian forest",
+            "horse toile blanket",
+            "french country decor",
+            "ranch home decor",
+            "horse lover gift"
+          ],
+          "design_id": "HRS26074003A_raw",
+          "etsy_listing_id": "4474226917"
+        },
+        {
+          "title": "Horse Rider Toile Woven Throw Blanket, French Country Decor, Equestrian Gift",
+          "intro": "A horse and rider are framed by leafy trees and wildflowers in a classic two-tone toile scene. The design uses deep forest green on a cream background for a timeless, country feel. Great for equestrian lovers and anyone who enjoys traditional farmhouse style.",
+          "image": "/images/HRS26074003B_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4474475932?utm_source=blog&utm_medium=niche_page&utm_campaign=hrs",
+          "price": "$78.80",
+          "tags": [
+            "horse rider toile",
+            "toile horse blanket",
+            "equestrian toile",
+            "french country decor",
+            "farmhouse horse gift",
+            "green toile throw"
+          ],
+          "design_id": "HRS26074003B_raw",
+          "etsy_listing_id": "4474475932"
+        },
+        {
+          "title": "Horse Portrait Botanical Woven Throw Blanket, Equestrian Decor, Horse Lover Gift",
+          "intro": "A detailed horse portrait sits at the center of this woven throw, framed by delicate leafy branches on all sides. The design uses deep forest green and warm cream in a classic engraved style. Clean and timeless, it works well in any farmhouse, ranch, or equestrian-themed room.",
+          "image": "/images/HRS26074003C_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4474457042?utm_source=blog&utm_medium=niche_page&utm_campaign=hrs",
+          "price": "$78.80",
+          "tags": [
+            "horse portrait throw",
+            "toile horse blanket",
+            "green horse decor",
+            "equestrian gift",
+            "horse lover gift",
+            "farmhouse throw"
+          ],
+          "design_id": "HRS26074003C_raw",
+          "etsy_listing_id": "4474457042"
+        },
+        {
+          "title": "Paint Horse Meadow Woven Throw Blanket, Country Home Decor, Equestrian Gift",
+          "intro": "A brown and white paint horse stands in a sun-lit meadow with pink wildflowers and leafy green trees all around. The flat illustration style uses rich browns, deep greens, and soft cream tones for a timeless countryside look. Great for horse lovers who want a warm, relaxed feel in any room.",
+          "image": "/images/HRS26074003D_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4474548537?utm_source=blog&utm_medium=niche_page&utm_campaign=hrs",
+          "price": "$78.80",
+          "tags": [
+            "paint horse blanket",
+            "horse meadow throw",
+            "wildflower horse",
+            "equestrian decor",
+            "country horse decor",
+            "ranch home decor"
+          ],
+          "design_id": "HRS26074003D_raw",
+          "etsy_listing_id": "4474548537"
+        },
+        {
+          "title": "Wild Horses Mountain Meadow Woven Throw Blanket, Rustic Equestrian Decor, Horse Lover Gift",
+          "intro": "Two wild horses gallop through a golden meadow beneath dramatic snow-capped mountains. The design features a warm retro palette of amber, muted blue, and earthy brown. Bold flat shapes and a vintage poster style give it a classic ranch feel.",
+          "image": "/images/HRS26074003E_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4474527330?utm_source=blog&utm_medium=niche_page&utm_campaign=hrs",
+          "price": "$78.80",
+          "tags": [
+            "wild horse blanket",
+            "horse mountain decor",
+            "running horses throw",
+            "rustic ranch decor",
+            "vintage nature art",
+            "equestrian home gift"
+          ],
+          "design_id": "HRS26074003E_raw",
+          "etsy_listing_id": "4474527330"
+        },
+        {
+          "title": "Rodeo Cowboy Bucking Horse Woven Throw Blanket, Western Decor, Ranch Gift",
+          "intro": "A bold rodeo scene featuring a cowboy riding a bucking horse in classic retro illustration style. Muted teal, rust, and tan tones give it a vintage western feel. Great for ranch homes, cowboy fans, or anyone who loves American West art.",
+          "image": "/images/HRS26074003F_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4474489664?utm_source=blog&utm_medium=niche_page&utm_campaign=hrs",
+          "price": "$78.80",
+          "tags": [
+            "rodeo cowboy blanket",
+            "bucking horse throw",
+            "western cowboy gift",
+            "retro western decor",
+            "ranch house blanket",
+            "cowboy home decor"
+          ],
+          "design_id": "HRS26074003F_raw",
+          "etsy_listing_id": "4474489664"
+        },
+        {
+          "title": "Trail Ride Through Autumn Mountains Woven Throw Blanket, Horse Lover Decor, Equestrian Gift",
+          "intro": "A rider on horseback crosses a shallow mountain stream surrounded by autumn trees in warm golds, reds, and oranges. Rocky peaks rise in the background under a soft sky, with a second horse and rider visible through the trees. The scene feels peaceful and cinematic, like a fall trail ride deep in the wilderness.",
+          "image": "/images/HRS26074003G_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4474501769?utm_source=blog&utm_medium=niche_page&utm_campaign=hrs",
+          "price": "$78.80",
+          "tags": [
+            "trail riding blanket",
+            "horse mountain scene",
+            "equestrian throw",
+            "autumn nature decor",
+            "western ranch style",
+            "horse lover gift"
+          ],
+          "design_id": "HRS26074003G_raw",
+          "etsy_listing_id": "4474501769"
+        },
+        {
+          "title": "Wild Horses Meadow Woven Throw Blanket, Farmhouse Horse Decor, Gift For Horse Lovers",
+          "intro": "A chestnut mare and foal stand together in a green meadow with wildflowers, pine trees, and snow-capped mountains in the background. A rustic red barn sits at the edge of the pasture, giving the scene a warm country feel. The soft, vintage-inspired palette makes this a cozy piece for any horse lover's home.",
+          "image": "/images/HRS26074004A_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4474669521?utm_source=blog&utm_medium=niche_page&utm_campaign=hrs",
+          "price": "$78.80",
+          "tags": [
+            "wild horse blanket",
+            "horse meadow throw",
+            "mare and foal",
+            "western farmhouse",
+            "country horse decor",
+            "rustic mountain art"
+          ],
+          "design_id": "HRS26074004A_raw",
+          "etsy_listing_id": "4474669521"
+        }
+      ],
+      "related_niches": [
+        {
+          "name": "Southwestern Blankets",
+          "slug": "southwestern-blankets"
+        },
+        {
+          "name": "Cottagecore Bedroom",
+          "slug": "cottagecore-bedroom"
+        },
+        {
+          "name": "Victorian & Verdure",
+          "slug": "victorian-verdure"
+        }
+      ],
+      "top_keywords": [
+        "hosting decor",
+        "horses woven blanket",
+        "woven horse throw",
+        "gift for him",
+        "gift for her",
+        "woven blanket",
+        "blanket",
+        "housewarming gift",
+        "year of the horse"
+      ],
+      "total_listings": 28,
+      "content": {
+        "hero_intro": null,
+        "why_section": null,
+        "style_tips": null,
+        "faq": []
+      }
+    },
+    {
+      "code": "BKS",
+      "display_name": "Bookish Home Decor",
+      "slug": "bookish-decor",
+      "title": "Bookish Home Decor: Literary Woven Blankets for Book Lovers",
+      "meta_description": "Dark academia and literary-inspired woven blankets for book lovers. Reading nook throws with bookish motifs, jacquard-woven in 100% cotton.",
+      "products": [
+        {
+          "title": "Forest Birds Sunrise Woven Throw Blanket, Book Lover Decor, Fan Gift",
+          "intro": "A bold vintage poster scene with birds in flight framing a glowing orange sun over a forest river. Deep greens and warm reds create a rich, dramatic contrast. Perfect for readers who love adventure and story driven art.",
+          "image": "/images/BKS26074005A_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4474233674?utm_source=blog&utm_medium=niche_page&utm_campaign=bks",
+          "price": "$78.80",
+          "tags": [
+            "hunger games throw",
+            "mockingjay decor",
+            "forest birds throw",
+            "dark green blanket",
+            "book lover gift",
+            "dystopian decor"
+          ],
+          "design_id": "BKS26074005A_raw",
+          "etsy_listing_id": "4474233674"
+        },
+        {
+          "title": "Mockingjay Open Book Woven Throw Blanket, Bookish Decor, Fandom Gift",
+          "intro": "A bold mockingjay soars against a glowing golden sun, flanked by candles and smaller birds in flight. An open book sits center stage below, surrounded by a dark pine forest and a leafy olive border. Deep greens and warm amber tones give this design a dramatic, story-driven feel.",
+          "image": "/images/BKS26074005B_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4474665823?utm_source=blog&utm_medium=niche_page&utm_campaign=bks",
+          "price": "$78.80",
+          "tags": [
+            "hunger games blanket",
+            "mockingjay throw",
+            "book lover blanket",
+            "bookish decor",
+            "literary fandom gift",
+            "dark forest blanket"
+          ],
+          "design_id": "BKS26074005B_raw",
+          "etsy_listing_id": "4474665823"
+        },
+        {
+          "title": "Stacked Books Sunset Woven Throw Blanket, Literary Decor, Book Lover Gift",
+          "intro": "A silhouetted figure sits before an open book, framed by towering stacks of colorful books on each side. A warm orange sunset glows over rolling hills and pine trees, with birds soaring through the sky. Dark teal tones and leafy border details give this design a calm, cozy reading mood.",
+          "image": "/images/BKS26074005C_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4474772418?utm_source=blog&utm_medium=niche_page&utm_campaign=bks",
+          "price": "$78.80",
+          "tags": [
+            "book lover throw",
+            "bookshelf blanket",
+            "open book decor",
+            "literary home decor",
+            "book lover gift",
+            "reading nook decor"
+          ],
+          "design_id": "BKS26074005C_raw",
+          "etsy_listing_id": "4474772418"
+        },
+        {
+          "title": "Underwater Library Books Woven Throw Blanket, Bookish Decor, Reader Gift",
+          "intro": "A magical library sits beneath the ocean, with towering bookshelves lining both sides and a large open book in the center foreground. Goldfish swim among the shelves while black birds soar upward toward rays of teal blue light breaking through the water above. Coral and seaweed add deep red and green accents against the rich blue depths.",
+          "image": "/images/BKS26074005D_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4474770921?utm_source=blog&utm_medium=niche_page&utm_campaign=bks",
+          "price": "$78.80",
+          "tags": [
+            "underwater library",
+            "books ocean art",
+            "fish bookshelf",
+            "bookish home decor",
+            "reader gift blanket",
+            "fantasy book lover"
+          ],
+          "design_id": "BKS26074005D_raw",
+          "etsy_listing_id": "4474770921"
+        },
+        {
+          "title": "Mushroom Forest Path Woven Throw Blanket, Bookish Decor, Book Lover Gift",
+          "intro": "A winding forest path curves through twisted dark trees draped in shadow, with clusters of pink and red mushrooms dotting the mossy floor. The scene is rich in deep teal and forest green tones, with wildflowers blooming along the trail as it disappears into the woods. The flat illustrated style gives it a storybook quality that feels both cozy and mysterious.",
+          "image": "/images/BKS26074005E_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4474789034?utm_source=blog&utm_medium=niche_page&utm_campaign=bks",
+          "price": "$78.80",
+          "tags": [
+            "mushroom forest",
+            "woodland path throw",
+            "fantasy forest throw",
+            "dark fantasy decor",
+            "bookish room decor",
+            "storybook forest"
+          ],
+          "design_id": "BKS26074005E_raw",
+          "etsy_listing_id": "4474789034"
+        },
+        {
+          "title": "Magical Potions and Books Woven Throw Blanket, Fantasy Decor, Gift for Book Lovers",
+          "intro": "Colorful potion bottles in purple, blue, and green fill a candlelit library shelf alongside stacks of books and sparkling blue crystals. A golden compass star hangs on the dark teal wall while candles cast a warm glow across an open book. This design has a rich, adventurous feel perfect for fantasy lovers.",
+          "image": "/images/BKS26074005F_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4474794714?utm_source=blog&utm_medium=niche_page&utm_campaign=bks",
+          "price": "$78.80",
+          "tags": [
+            "potion shelf blanket",
+            "wizard library",
+            "colorful potions",
+            "fantasy book decor",
+            "dark academia",
+            "bookish gifts"
+          ],
+          "design_id": "BKS26074005F_raw",
+          "etsy_listing_id": "4474794714"
+        },
+        {
+          "title": "Cozy Library Bookshelves Candles Woven Throw Blanket, Book Lover Decor, Reader Gift",
+          "intro": "A circular library comes to life with floor-to-ceiling shelves packed with colorful books, warm candlelight, and a glowing skylight overhead. An open book rests in the foreground, surrounded by stacked volumes and flickering flames. The deep, rich tones create a warm and cozy reading room mood.",
+          "image": "/images/BKS26074005G_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4474791184?utm_source=blog&utm_medium=niche_page&utm_campaign=bks",
+          "price": "$78.80",
+          "tags": [
+            "cozy library blanket",
+            "book lover throw",
+            "library books decor",
+            "dark academic decor",
+            "reader home decor",
+            "bookish gift"
+          ],
+          "design_id": "BKS26074005G_raw",
+          "etsy_listing_id": "4474791184"
+        },
+        {
+          "title": "Dark Library Scholar Woven Throw Blanket, Book Lover Decor, Reader Gift",
+          "intro": "A dark-haired figure in a black coat sits at a desk reading an open book, surrounded by floor-to-ceiling shelves packed with colorful books. A glowing circular window frames the scene from behind, casting soft light through a grand, shadowy library. Deep navy, forest green, and warm amber tones create a rich, moody reading room feel.",
+          "image": "/images/BKS26074006A_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4474622102?utm_source=blog&utm_medium=niche_page&utm_campaign=bks",
+          "price": "$78.80",
+          "tags": [
+            "dark library blanket",
+            "reading nook decor",
+            "fantasy book lover",
+            "gothic library decor",
+            "bookish home decor",
+            "dark academia throw"
+          ],
+          "design_id": "BKS26074006A_raw",
+          "etsy_listing_id": "4474622102"
+        }
+      ],
+      "related_niches": [
+        {
+          "name": "Gothic Home Decor",
+          "slug": "gothic-home-decor"
+        },
+        {
+          "name": "Victorian & Verdure",
+          "slug": "victorian-verdure"
+        },
+        {
+          "name": "Art Nouveau Style",
+          "slug": "art-nouveau-decor"
+        }
+      ],
+      "top_keywords": [
+        "woven book blanket",
+        "stag tapestry",
+        "percy jackson",
+        "bookish woven throw",
+        "acotar",
+        "throne of glass",
+        "gift for her",
+        "book lover gift",
+        "woven blanket"
+      ],
+      "total_listings": 21,
+      "content": {
+        "hero_intro": null,
+        "why_section": null,
+        "style_tips": null,
+        "faq": []
+      }
+    },
+    {
+      "code": "MSH",
+      "display_name": "Mushroom Decor",
+      "slug": "mushroom-decor",
+      "title": "Mushroom Decor: Fungi Art & Goblincore Woven Blankets",
+      "meta_description": "Mushroom and fungi art woven into 100% cotton blankets. Goblincore and woodland-inspired throws for nature lovers and cottagecore bedrooms.",
+      "products": [
+        {
+          "title": "White Cosmos Floral Woven Throw Blanket, Dark Botanical Decor, Housewarming Gift",
+          "intro": "A large white cosmos bloom rises from a symmetrical arrangement of pink flower buds and sage green stems against a deep black background. The design draws from vintage botanical illustration with rich layered detail. Soft pink and warm green tones give it a cozy, garden-inspired feel.",
+          "image": "/images/MSH26074008A_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4474437423?utm_source=blog&utm_medium=niche_page&utm_campaign=msh",
+          "price": "$78.80",
+          "tags": [
+            "white floral blanket",
+            "dark botanical throw",
+            "pink flower blanket",
+            "cottagecore blanket",
+            "dark floral decor",
+            "botanical home decor"
+          ],
+          "design_id": "MSH26074008A_raw",
+          "etsy_listing_id": "4474437423"
+        },
+        {
+          "title": "White Flower Mushroom Garden Woven Throw Blanket, Botanical Decor, Nature Gift",
+          "intro": "A large white flower blooms at the center surrounded by rich green leaves and stems on a deep dark background. Colorful mushrooms in purple, blue, and red cluster at the base alongside small red berry accents. The design has a flat botanical illustration feel inspired by classic nature prints.",
+          "image": "/images/MSH26074008B_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4474520341?utm_source=blog&utm_medium=niche_page&utm_campaign=msh",
+          "price": "$78.80",
+          "tags": [
+            "mushroom woven throw",
+            "cottagecore blanket",
+            "white flower decor",
+            "dark floral blanket",
+            "botanical home decor",
+            "mushroom lover gift"
+          ],
+          "design_id": "MSH26074008B_raw",
+          "etsy_listing_id": "4474520341"
+        },
+        {
+          "title": "Mushroom Wreath Woven Throw Blanket, Cottagecore Nature Decor, Housewarming Gift",
+          "intro": "A circular wreath of wild mushrooms, ferns, berries, and a single white flower sits against a deep black background. Earthy terracotta reds and sage greens give the design a warm, natural feel. Perfect for cozy spaces that celebrate nature and forest life.",
+          "image": "/images/MSH26074008C_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4474550197?utm_source=blog&utm_medium=niche_page&utm_campaign=msh",
+          "price": "$78.80",
+          "tags": [
+            "mushroom blanket",
+            "cottagecore throw",
+            "mushroom forest",
+            "dark floral decor",
+            "nature wreath",
+            "forest home decor"
+          ],
+          "design_id": "MSH26074008C_raw",
+          "etsy_listing_id": "4474550197"
+        },
+        {
+          "title": "Mushroom Forest Path Woven Throw Blanket, Cottagecore Decor, Housewarming Gift",
+          "intro": "A winding path leads through a forest of tall green and red capped mushrooms, surrounded by white daisy flowers and tiny glowing lanterns. Deep black background makes the soft greens, reds, and creamy whites pop with a cozy storybook feel. Perfect for nature lovers who want a little magic in their living space.",
+          "image": "/images/MSH26074008D_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4474482011?utm_source=blog&utm_medium=niche_page&utm_campaign=msh",
+          "price": "$78.80",
+          "tags": [
+            "mushroom forest",
+            "cottagecore blanket",
+            "mushroom throw",
+            "dark floral decor",
+            "nature lover gift",
+            "forest home decor"
+          ],
+          "design_id": "MSH26074008D_raw",
+          "etsy_listing_id": "4474482011"
+        },
+        {
+          "title": "Mushroom Forest Moon Luna Moth Woven Throw Blanket, Cottagecore Nature Decor, Housewarming Gift",
+          "intro": "A moonlit forest scene filled with colorful mushrooms and a pale green luna moth resting among ferns and oak leaves. Deep dark tones frame a glowing full moon rising behind pine trees, with red and tan toadstools in the foreground. Calm and natural with a night garden feel.",
+          "image": "/images/MSH26074008E_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4474503441?utm_source=blog&utm_medium=niche_page&utm_campaign=msh",
+          "price": "$78.80",
+          "tags": [
+            "mushroom forest",
+            "luna moth blanket",
+            "moon forest throw",
+            "cottagecore decor",
+            "dark nature blanket",
+            "woodland night"
+          ],
+          "design_id": "MSH26074008E_raw",
+          "etsy_listing_id": "4474503441"
+        },
+        {
+          "title": "Vintage Mushroom Chart Woven Throw Blanket, Cottagecore Nature Decor, Gift for Her",
+          "intro": "This blanket features a botanical field guide style illustration of colorful mushroom varieties arranged on a deep dark background. Reds, oranges, and warm browns pop against the dark ground, surrounded by small leafy fern sprigs. It has a cozy vintage nature study feel, perfect for mushroom lovers and cottagecore enthusiasts.",
+          "image": "/images/MSH26074008F_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4474477014?utm_source=blog&utm_medium=niche_page&utm_campaign=msh",
+          "price": "$78.80",
+          "tags": [
+            "mushroom blanket",
+            "cottagecore mushroom",
+            "mushroom varieties",
+            "botanical blanket",
+            "dark botanical",
+            "nature lover gift"
+          ],
+          "design_id": "MSH26074008F_raw",
+          "etsy_listing_id": "4474477014"
+        },
+        {
+          "title": "Mushroom Forest Full Moon Woven Throw Blanket, Cottagecore Nature Decor, Housewarming Gift",
+          "intro": "A tall red-capped mushroom stands in a moonlit forest clearing, surrounded by smaller purple and ivory mushrooms among lush green grass. Colorful autumn leaves and dragonflies frame the scene under a glowing full moon and dark night sky. The rich jewel tones and folk art style give this blanket a cozy, nature-inspired feel.",
+          "image": "/images/MSH26074008G_raw.jpg",
+          "url": "https://mapacitodesigns.etsy.com/listing/4474457934?utm_source=blog&utm_medium=niche_page&utm_campaign=msh",
+          "price": "$78.80",
+          "tags": [
+            "mushroom forest",
+            "full moon blanket",
+            "cottagecore blanket",
+            "dark nature decor",
+            "woodland throw",
+            "folk art blanket"
+          ],
+          "design_id": "MSH26074008G_raw",
+          "etsy_listing_id": "4474457934"
+        }
+      ],
+      "related_niches": [
+        {
+          "name": "Cottagecore Bedroom",
+          "slug": "cottagecore-bedroom"
+        },
+        {
+          "name": "Victorian & Verdure",
+          "slug": "victorian-verdure"
+        },
+        {
+          "name": "Ocean & Coastal Decor",
+          "slug": "ocean-coastal-decor"
+        }
+      ],
+      "top_keywords": [
+        "book nook",
+        "hosting decor",
+        "tapestry",
+        "woodsy blanket",
+        "gift for him",
+        "whimsigoth",
+        "gift for her",
+        "mushroom",
+        "woven blanket"
+      ],
+      "total_listings": 7,
+      "content": {
+        "hero_intro": null,
+        "why_section": null,
+        "style_tips": null,
+        "faq": []
+      }
+    },
+    {
+      "code": "DRG",
+      "display_name": "Dragon & Fantasy Decor",
+      "slug": "dragon-fantasy-decor",
+      "title": "Dragon & Fantasy Decor: Woven Tapestry Blankets for Fantasy Lovers",
+      "meta_description": "Bring fantasy to life with dragon woven blankets. Medieval-inspired tapestry throws featuring detailed dragon art, woven in 100% cotton jacquard.",
+      "products": [],
+      "related_niches": [
+        {
+          "name": "Gothic Home Decor",
+          "slug": "gothic-home-decor"
+        },
+        {
+          "name": "Celestial Decor",
+          "slug": "celestial-decor"
+        },
+        {
+          "name": "Skeleton & Gothic Art",
+          "slug": "skeleton-gothic-art"
+        }
+      ],
+      "top_keywords": [
+        "gift for him",
+        "gift for her",
+        "book lover gift",
+        "woven blanket",
+        "medieval tapestry",
+        "dungeons and dragons",
+        "dark academia",
+        "whimsigoth decor",
+        "picnic blanket"
+      ],
+      "total_listings": 0,
+      "content": {
+        "hero_intro": null,
+        "why_section": null,
+        "style_tips": null,
+        "faq": []
+      }
+    },
+    {
+      "code": "CEL",
+      "display_name": "Celestial Decor",
+      "slug": "celestial-decor",
+      "title": "Celestial Decor: Moon & Stars Woven Blankets for Mystical Homes",
+      "meta_description": "Moon phases, constellations, and cosmic designs woven into 100% cotton blankets. Perfect celestial decor for astrology lovers and mystical home aesthetics.",
+      "products": [],
+      "related_niches": [
+        {
+          "name": "Gothic Home Decor",
+          "slug": "gothic-home-decor"
+        },
+        {
+          "name": "Art Nouveau Style",
+          "slug": "art-nouveau-decor"
+        },
+        {
+          "name": "Dragon & Fantasy Decor",
+          "slug": "dragon-fantasy-decor"
+        }
+      ],
+      "top_keywords": [
+        "tapestry",
+        "gift for her",
+        "woven blanket",
+        "blanket",
+        "customizable blanket",
+        "gift for mom",
+        "dark academia",
+        "whimsigoth decor",
+        "picnic blanket"
+      ],
+      "total_listings": 0,
+      "content": {
+        "hero_intro": null,
+        "why_section": null,
+        "style_tips": null,
+        "faq": []
+      }
+    },
+    {
+      "code": "HLW",
+      "display_name": "Halloween Decor",
+      "slug": "halloween-decor",
+      "title": "Halloween Decor Year Round: Spooky Woven Blankets & Gothic Throws",
+      "meta_description": "Year-round Halloween decor with handwoven spooky blankets. Skulls, bats, and dark motifs jacquard-woven into cozy 100% cotton throws.",
+      "products": [],
+      "related_niches": [
+        {
+          "name": "Gothic Home Decor",
+          "slug": "gothic-home-decor"
+        },
+        {
+          "name": "Skeleton & Gothic Art",
+          "slug": "skeleton-gothic-art"
+        },
+        {
+          "name": "Celestial Decor",
+          "slug": "celestial-decor"
+        }
+      ],
+      "top_keywords": [
+        "woven mockup",
+        "personalized gift",
+        "spooky woven blanket",
+        "gothic cat blanket",
+        "gift for him",
+        "whimsigoth",
+        "halloween",
+        "woven blanket mockup",
+        "fall decor"
+      ],
+      "total_listings": 0,
+      "content": {
+        "hero_intro": null,
+        "why_section": null,
+        "style_tips": null,
+        "faq": []
+      }
+    },
+    {
+      "code": "SKL",
+      "display_name": "Skeleton & Gothic Art",
+      "slug": "skeleton-gothic-art",
+      "title": "Skeleton Art Decor: Gothic & Macabre Woven Blankets",
+      "meta_description": "Skeleton and anatomy art woven into 100% cotton blankets. Gothic macabre designs, skull motifs, and dark decor throws for your unique aesthetic.",
+      "products": [],
+      "related_niches": [
+        {
+          "name": "Gothic Home Decor",
+          "slug": "gothic-home-decor"
+        },
+        {
+          "name": "Halloween Decor",
+          "slug": "halloween-decor"
+        },
+        {
+          "name": "Celestial Decor",
+          "slug": "celestial-decor"
+        }
+      ],
+      "top_keywords": [
+        "tapestry",
+        "personalized gift",
+        "woven couple blanket",
+        "gift for him",
+        "whimsigoth",
+        "halloween",
+        "gift for her",
+        "woven blanket",
+        "blanket"
+      ],
+      "total_listings": 0,
+      "content": {
+        "hero_intro": null,
+        "why_section": null,
+        "style_tips": null,
+        "faq": []
+      }
+    },
+    {
+      "code": "CAT",
+      "display_name": "Cat Lover Gifts",
+      "slug": "cat-lover-gifts",
+      "title": "Cat Lover Gifts: Feline Art Woven Blankets & Cat Throws",
+      "meta_description": "Cat-themed woven blankets for feline lovers. Artistic cat designs jacquard-woven into cozy 100% cotton throws. Unique cat lover gifts for any home.",
+      "products": [],
+      "related_niches": [
+        {
+          "name": "Cottagecore Bedroom",
+          "slug": "cottagecore-bedroom"
+        },
+        {
+          "name": "Art Nouveau Style",
+          "slug": "art-nouveau-decor"
+        },
+        {
+          "name": "Bookish Home Decor",
+          "slug": "bookish-decor"
+        }
+      ],
+      "top_keywords": [
+        "tapestry",
+        "gift for him",
+        "gift for her",
+        "book lover gift",
+        "woven blanket",
+        "blanket",
+        "customizable blanket",
+        "housewarming gift",
+        "wall tapestry"
+      ],
+      "total_listings": 0,
+      "content": {
+        "hero_intro": null,
+        "why_section": null,
+        "style_tips": null,
+        "faq": []
+      }
+    }
+  ]
+}

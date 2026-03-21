@@ -1,0 +1,116 @@
+---
+interface Props {
+  title: string;
+  intro: string;
+  image: string;
+  url: string;
+  price: string;
+  tags: string[];
+}
+
+const { title, intro, image, url, price, tags } = Astro.props;
+---
+
+<article class="product-card">
+  <a href={url} target="_blank" rel="noopener" class="product-image-link">
+    <img src={image} alt={title} loading="lazy" width="400" height="533" />
+  </a>
+  <div class="product-info">
+    <h3 class="product-title">{title}</h3>
+    <p class="product-intro">{intro}</p>
+    <div class="product-tags">
+      {tags.slice(0, 3).map(tag => <span class="tag">{tag}</span>)}
+    </div>
+    <div class="product-footer">
+      <span class="product-price">From {price}</span>
+      <a href={url} target="_blank" rel="noopener" class="shop-btn">Shop on Etsy</a>
+    </div>
+  </div>
+</article>
+
+<style>
+  .product-card {
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+    overflow: hidden;
+    transition: border-color 0.2s;
+  }
+  .product-card:hover {
+    border-color: var(--color-accent);
+  }
+  .product-image-link {
+    display: block;
+    aspect-ratio: 3/4;
+    overflow: hidden;
+  }
+  .product-image-link img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s;
+  }
+  .product-card:hover img {
+    transform: scale(1.03);
+  }
+  .product-info {
+    padding: 16px;
+  }
+  .product-title {
+    font-size: 0.95rem;
+    font-weight: 600;
+    margin-bottom: 8px;
+    line-height: 1.4;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .product-intro {
+    font-size: 0.85rem;
+    color: var(--color-text-muted);
+    line-height: 1.5;
+    margin-bottom: 12px;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .product-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-bottom: 12px;
+  }
+  .tag {
+    font-size: 0.7rem;
+    padding: 3px 8px;
+    background: var(--color-bg);
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+    color: var(--color-text-muted);
+  }
+  .product-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .product-price {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--color-accent);
+  }
+  .shop-btn {
+    font-size: 0.8rem;
+    padding: 6px 14px;
+    background: var(--color-accent);
+    color: var(--color-bg);
+    border-radius: 4px;
+    font-weight: 600;
+    transition: background 0.2s;
+  }
+  .shop-btn:hover {
+    background: var(--color-accent-hover);
+    color: var(--color-bg);
+  }
+</style>
